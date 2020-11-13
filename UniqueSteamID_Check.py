@@ -1,7 +1,7 @@
 import json
 
-filePath = 'C:\\Users\\Code\\Desktop\\'
-fileName = 'SORTED_FIX_FriendsDepth3.json'
+filePath = ''
+fileName = ''
 
 data = []
 uniqueData = []
